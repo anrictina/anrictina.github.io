@@ -1,0 +1,15 @@
+# Site settings
+title: Jerry Wang的技术分享
+email: Jerry的微信公众号 汪子熙
+description: > # this means to ignore newlines until "baseurl:"
+  Jerry Wang 2007年研究生毕业进入SAP成都研究院从事开发工作至今。
+Jerry: adadadad - test
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://people.sap.com/jerry.wang" # the base hostname & protocol for your site
+twitter_username: JerryWang_SAP
+github_username:  i042416
+
+# Build settings
+markdown: kramdown
+
+theme: jekyll-theme-cayman
